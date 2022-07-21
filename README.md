@@ -9,7 +9,10 @@ const leo = [
 ]
 ```
 
-#### JavaScript | TypeScript | React 
+#### JavaScript | TypeScript | React | Vite | Webpack | HTML | CSS | SASS
+#### Node.js | Python | MySQL
+
+
 
 ## 🛠 Skills
 
