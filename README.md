@@ -1,6 +1,8 @@
-## Hi, I'm Leo 👋
+## Hi there! 👋
 
-I'm Leo, a full stack developer from Argentina.
+I'm Leo, a full stack developer from Argentina.  
+Passionate about learning new technologies and building cool projects.  
+Currently working on a few projects, including a personal portfolio.
 
 <section>
   <img
